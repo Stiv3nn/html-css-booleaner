@@ -1,0 +1,40 @@
+.logo{
+    background-color: aqua;
+    border: 1px solid black;
+    width: 1000px;
+    height: 150px;
+}
+
+.scrittore{
+    color: rgba(31, 185, 185, 0.705);
+}
+
+.testo-in-giallo{
+    background-color: yellow;
+}
+
+.testo-footer{
+    color: grey;
+}
+
+.tabella{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.colonna1{
+    text-align: left;
+    background-color: rgb(135, 202, 204);
+}
+
+.colonna4{
+    text-align: left;
+    background-color: rgb(135, 202, 204);
+}
+
+.colonna0{
+    text-align: left;
+    background-color: aqua;
+} 
+
+
